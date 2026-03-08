@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Custom CSS Variables */
+:root {
+  --primary: #3b82f6;
+  --secondary: #64748b;
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --info: #06b6d4;
+}
+
